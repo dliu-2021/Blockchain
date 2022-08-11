@@ -5,7 +5,7 @@ This course includes many important concepts of blcokchain.
    * Asymmetric Key
 2. Bitcoin
    * Proof-Of-Work Algorithm
-    ** Three Dices Decentralized Consensus Algorithm
+    * Three Dices Decentralized Consensus Algorithm
 3. Ethereum
    * Smart contract
    * Dapps
